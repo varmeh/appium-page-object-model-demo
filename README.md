@@ -56,7 +56,7 @@ $ npm install
 
 ## Execute Test
 
-## Update App Path in Test Case
+### Update App Path in Test Case
 
 Compile Code in XCode to build app. Then, access it by right clicking app in XCode & selecting _Show in Finder_
 
